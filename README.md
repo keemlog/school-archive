@@ -1,6 +1,7 @@
-# school-archive
+# Coursework Archive
+Archive of assignment write-ups and class content summaries.
 
-### 📁 통합 아카이브 구성
+### 📁 structure
 
 - `data-structure/` - 자료구조 과제 및 실습
 - `computer-structure/` - 컴퓨터 구조 과제
